@@ -1,5 +1,11 @@
 class Sum{
-    public static void main (String[]args){
-        System.out.println ("k xa");
+    int a;
+    double b ,c;
+    void Sum(int a, double b ){
+        c = a + b;
+        System.out.println("the sum of "+ a + " + " + b +"is");
     }
+    
+
+
 }
