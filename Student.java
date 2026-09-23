@@ -38,8 +38,14 @@ public  class Student{
 
 public static void main(String args[]){
     Student1  s1 = new Student1(1,"jhon");
-    Student1 s2 = new Student1(2,"jane",20);
-    s1.display();
+    Student1 s2 = new Student1(
+        
+        
+        
+        
+        
+        2,"jane",20); 
+       s1.display();
     s2.display();
 }
 
