@@ -25,7 +25,7 @@ class Employee{
 
         }
     }
-    public class Example{
+    public class Example   {
         public static void main(String[] args) {
             Employee e1 = new Employee(1,"Gita",3000000);
             e1.displayEmployee();
